@@ -12,3 +12,5 @@ Este projeto tem como objetivo demonstrar a aplicação de algoritmos de machine
 - Python: Linguagem principal do projeto.
 - scikit-learn: Para algoritmos de machine learning e métricas de avaliação.
 - pandas: Para importação e manipulação de dados.
+
+### Projeto desenvolvido durante as aulas do curso Deep Learning com Python de A a Z - O Curso Completo [2024]
