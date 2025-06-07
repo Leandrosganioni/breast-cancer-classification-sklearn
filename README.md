@@ -14,4 +14,8 @@ Este projeto tem como objetivo demonstrar a aplicação de algoritmos de machine
 - pandas: Para importação e manipulação de dados.
 
 ### Projeto desenvolvido durante as aulas do curso Deep Learning com Python de A a Z - O Curso Completo [2024]
-<a href="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" >
+<a href="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy Badge">
+</a>
+
+
